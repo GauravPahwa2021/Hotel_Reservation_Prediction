@@ -1,0 +1,12 @@
+Metadata-Version: 2.2
+Name: Hotel_Reservation_Prediction_Project
+Version: 0.0.1
+Author: Gaurav_Pahwa
+Requires-Python: >=3.8
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: matplotlib
+Requires-Dist: scikit-learn
+Dynamic: author
+Dynamic: requires-dist
+Dynamic: requires-python
