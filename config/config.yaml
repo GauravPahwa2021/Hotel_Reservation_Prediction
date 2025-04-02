@@ -1,0 +1,4 @@
+data_ingestion:
+  bucket_name: "your-bucket-name"
+  bucket_file_name: "your-file-name"
+  train_ratio: 0.8
