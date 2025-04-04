@@ -6,7 +6,7 @@ scikit-learn
 xgboost 
 lightgbm
 google-cloud-storage
-
 pyyaml
+ipykernel
 statsmodels
 imbalanced-learn
