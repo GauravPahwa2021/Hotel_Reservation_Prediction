@@ -7,5 +7,10 @@ xgboost
 lightgbm
 google-cloud-storage
 pyyaml
+ipykernel
 statsmodels
 imbalanced-learn
+mlflow
+dagshub
+requests
+dotenv

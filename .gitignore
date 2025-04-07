@@ -1,4 +1,5 @@
 venv/
 logs/
-
 test.py
+.env
+mlruns/

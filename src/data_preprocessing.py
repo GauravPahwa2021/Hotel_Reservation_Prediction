@@ -115,7 +115,7 @@ class DataProcessor:
             logger.error(f"Error during feature selection step {e}")
             raise CustomException(e,sys)
     
-    def save_data(self,df , file_path):
+    def save_data(self,df,file_path):
         try:
             logger.info("Saving our data in processed folder")
 

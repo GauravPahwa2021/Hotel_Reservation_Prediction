@@ -10,3 +10,7 @@ pyyaml
 ipykernel
 statsmodels
 imbalanced-learn
+mlflow
+dagshub
+requests
+dotenv
