@@ -1,5 +1,4 @@
-venv/
+venev/
 logs/
-test.py
 .env
 mlruns/

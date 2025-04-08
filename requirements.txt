@@ -14,3 +14,4 @@ mlflow
 dagshub
 requests
 dotenv
+flask

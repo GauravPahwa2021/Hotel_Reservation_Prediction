@@ -1,4 +1,4 @@
-Metadata-Version: 2.2
+Metadata-Version: 2.4
 Name: Hotel_Reservation_Prediction_Project
 Version: 0.0.1
 Author: Gaurav_Pahwa
@@ -19,6 +19,7 @@ Requires-Dist: mlflow
 Requires-Dist: dagshub
 Requires-Dist: requests
 Requires-Dist: dotenv
+Requires-Dist: flask
 Dynamic: author
 Dynamic: requires-dist
 Dynamic: requires-python
