@@ -2,3 +2,4 @@ venev/
 logs/
 .env
 mlruns/
+.gitattributes
