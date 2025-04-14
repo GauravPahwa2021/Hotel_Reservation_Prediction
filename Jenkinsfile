@@ -15,15 +15,13 @@ pipeline {
                 }
             }
         }
-    }
 
-    stages {
         stage('Setting up our Virtual Environment and Installing dependancies') {
             steps {
                 script {
                     echo 'creating virtual environment and installing dependencies..............'
                     // Add your build commands here
-                    sh '''  
+                    sh '''
                     python -m venv ${VENV_DIR}
                     . ${VENV_DIR}/bin/activate
                     pip install --upgrade pip
